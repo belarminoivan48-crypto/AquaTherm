@@ -2,6 +2,12 @@
 IoT-Based Water Quality Monitoring and Early Warning System for Bangus Fishponds — Thesis 1 Documentation
 
 # AquaTherm
+Leader: Avila, Kent Ivan B.
+Members: Bacal, Emmanuel Joseph O.
+Culminas, Gerardo R.
+Daz, Yuan Dec L.
+Llamido, John Michael J.
+
 
 **AquaTherm** is an IoT-based water quality monitoring and early warning system for bangus (milkfish) fishponds. It continuously measures **dissolved oxygen (DO)** and **salinity**, classifies each reading as **Safe / Warning / Critical**, and automatically notifies the fishpond owner via **SMS and push notification** when conditions turn unsafe — so corrective action (e.g., aeration) can happen before a fish kill occurs.
 
