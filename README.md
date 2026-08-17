@@ -43,7 +43,7 @@ All charts and diagrams for Activity 1 are found in the **`Charts & Diagrams/`**
 ## Team
 
 **Researchers**
-- Avila, Kent Ivan B.
+- Avila, Kent Ivan B. (Leader)
 - Bacal, Emmanuel Joseph O.
 - Culminas, Gerardo R.
 - Daz, Yuan Dec L.
